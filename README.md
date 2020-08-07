@@ -1,2 +1,3 @@
-# Q2-2020-rdp-proy1-cbrenes-rcarava
-Q2-2020-RDP-Final-Proyect-cbrenes-rcaravaca
+# **Proyecto Final - Reconocimiento de Patrones**
+## **2do Cuatrimestre del 2020.**
+Carlos Brenes / Ronald Caravaca.
