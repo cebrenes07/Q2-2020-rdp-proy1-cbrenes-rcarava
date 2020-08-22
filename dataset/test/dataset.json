@@ -1,0 +1,572 @@
+[{
+"file_name": "Speed_date_part1_cam01_0_14.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [7,2,318,338],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_0_4.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [3,8,284,333],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_1_7.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [13,30,304,322],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam01_0_15.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [31,12,315,334],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_0_9.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [5,18,340,312],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_3_4.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [54,92,289,336],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam01_0_25.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [3,4,335,296],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_1_15.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [58,7,269,338],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam03_1_1.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [42,44,295,317],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_1_16.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [61,27,273,336],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam03_1_26.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [24,42,278,330],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam01_0_5.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [5,28,340,326],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_1_21.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [11,30,321,327],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam03_1_28.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [15,18,305,329],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_0_10.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [5,32,340,311],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_1_2.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [42,35,279,310],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam03_1_2.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [32,59,309,295],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_0_11.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [2,31,340,312],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_1_4.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [41,33,286,333],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam03_2_25.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [26,21,315,305],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_0_1.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [18,9,323,321],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_1_5.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [39,36,283,327],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam04_2_18.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [82,3,271,322],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_0_2.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [4,25,334,327],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam02_1_6.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [46,30,284,323],
+"category_id": 0}]
+},
+{
+"file_name": "Speed_date_part1_cam04_2_6.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [36,36,306,312],
+"category_id": 0}]
+},
+
+{
+"file_name": "Speed_date_part2_cam08_0_0.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 4,37,340,318],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam08_2_7.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 19,15,331,332],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_27.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 41,46,303,317],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_28.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 56,16,313,315],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam08_2_16.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 1,8,340,323],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_10.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 30,33,340,320],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_5.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 72,135,259,332],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam08_2_18.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 8,5,325,332],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_21.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 20,53,277,296],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_6.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 12,70,332,327],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam08_2_5.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 17,19,327,329],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_26.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 56,58,275,308],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_7.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 5,29,340,328],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_0_7.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [ 3,130,235,324],
+"category_id": 1}]
+},
+
+{
+"file_name": "Speed_date_part1_cam01_1_10.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [41,28,290,317],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam01_2_13.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [2,51,179,297],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam03_0_21.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [33,41,302,304],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam01_1_11.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [22,44,286,316],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam03_0_2.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [34,20,320,305],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam01_1_13.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [43,56,309,296],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam03_3_6.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [54,31,294,307],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam01_1_15.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [64,46,324,309],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam02_2_22.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [26,114,312,335],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam04_0_20.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [40,44,310,320],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam02_2_2.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [24,38,312,307],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam04_0_5.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [17,25,324,322],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam01_1_23.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [65,69,290,296],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam02_2_9.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [80,29,277,327],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam04_0_9.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [51,34,321,318],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam03_0_16.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [52,25,298,330],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam03_0_18.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [14,37,320,297],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part1_cam03_0_20.png", 
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [67,7,294,321],
+"category_id": 1}]
+},
+
+{
+"file_name": "Speed_date_part2_cam08_5_29.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [0,6,196,290],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_20.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [13,53,327,288],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_0.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [15,42,330,303],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_31.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [36,16,312,308],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_10.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [38,33,302,321],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_32.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [24,32,294,316],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam08_5_12.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [10,10,244,269],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_18.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [46,20,303,313],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_3.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [39,5,300,321],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam08_5_22.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [0,53,216,335],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_9.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [41,25,292,312],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam08_5_24.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [0,11,340,314],
+"category_id": 1}]
+},
+{
+"file_name": "Speed_date_part2_cam09_1_1.png",
+"height": 340,
+"width": 340,
+"annotations": [
+{"bbox": [28,20,313,323],
+"category_id": 1}]
+}
+]

@@ -202,7 +202,8 @@ if __name__ == "__main__":
 			old_centers = new_centers
 			counting_frames = counting_frames + 1
 			bar.next()
-		bar.next()
+		# ~ bar.next()
+		bar.finish()
 		finish_time = time.time()
 		
 		print("\nINFO ==> Getting centers done")
